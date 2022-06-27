@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="2.152">
+    <testcase classname="database_read_feature" name="TC09" time="1.854">
+        <system-out>
+            <![CDATA[Given user connects to the database.........................................passed
+And user gets "*" from "jhi_user" table.....................................passed
+Then read the row count of "jhi_user" table.................................passed
+And read the column names of "jhi_user" table...............................passed
+Then close the database connection..........................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
